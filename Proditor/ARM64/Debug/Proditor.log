@@ -1,0 +1,3 @@
+﻿  Proditor.cpp
+C:\Users\josch\source\repos\Proditor\Proditor.cpp(290,42): warning C4312: "Typumwandlung": Konvertierung von "DWORD" in größeren Typ "LPTHREAD_START_ROUTINE"
+  Proditor.vcxproj -> C:\Users\josch\source\repos\Proditor\ARM64\Debug\Proditor.exe
